@@ -5,3 +5,8 @@ function greeting(person) {
 function introduce(person) {
   return greeting(person) + ". I am " + person.age + " years old.";
 }
+
+module.exports = {
+  introduce,
+  greeting
+}

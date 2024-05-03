@@ -1,0 +1,12 @@
+{
+  "name": "Your Environment Name",
+  "image": "mcr.microsoft.com/vscode/devcontainers/base:0-buster",
+  "settings": {
+      "workbench.colorTheme": "Visual Studio Dark",
+      "editor.fontSize": 14,
+      "window.zoomLevel": 1
+  },
+  "extensions": [
+      
+  ]
+}

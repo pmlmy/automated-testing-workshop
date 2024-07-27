@@ -1,0 +1,16 @@
+TN:
+SF:integration.js
+FN:1,greeting
+FN:5,introduce
+FNF:2
+FNH:2
+FNDA:2,greeting
+FNDA:2,introduce
+DA:2,2
+DA:6,2
+DA:9,1
+LF:3
+LH:3
+BRF:0
+BRH:0
+end_of_record
